@@ -1,3 +1,5 @@
+# VSCode
+
 ## Close a tab
 `CTRL + W`
 
